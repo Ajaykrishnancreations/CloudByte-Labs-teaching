@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "howWeTeach": "How We Teach",
+    "projects": "Projects",
+    "careerSupport": "Career Support",
+    "about": "About",
+    "contact": "Contact",
+    "trainers": "Trainers",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "studentLogin": "Student Login",
+    "talkToUs": "Talk to Us",
+    "exploreCourses": "Explore Courses"
+  },
+  "hero": {
+    "title": "Learn Technology From People Who Actually Build With It.",
+    "subtitle": "Practical, industry-focused training in Salesforce, MERN Stack, UI/UX and Python — guided by experienced technology professionals.",
+    "ctaPrimary": "Explore Courses",
+    "ctaSecondary": "Talk to a Mentor",
+    "point1": "Live instructor-led learning",
+    "point2": "Real-world projects",
+    "point3": "Flexible timings",
+    "point4": "Career guidance"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewCurriculum": "View Curriculum",
+    "viewProject": "View Project",
+    "readMore": "Read More",
+    "getInTouch": "Get in Touch",
+    "requestCallback": "Request a Callback",
+    "sendMessage": "Send Message",
+    "submit": "Submit",
+    "call": "Call Us",
+    "whatsapp": "WhatsApp Us",
+    "chat": "Chat with Us"
+  },
+  "chatbot": {
+    "greeting": "Hi! I'm the CloudByteLabs Learning Assistant. What would you like to learn today?",
+    "placeholder": "Type your question...",
+    "online": "Online",
+    "thinking": "Thinking...",
+    "error": "I'm having trouble connecting right now. You can still reach our team directly.",
+    "unknown": "I don't want to give you incorrect information. Would you like to speak with a CloudByteLabs mentor?"
+  },
+  "footer": {
+    "description": "Practical technology training built around real industry experience.",
+    "courses": "Courses",
+    "company": "Company",
+    "support": "Support",
+    "contact": "Contact",
+    "language": "Language",
+    "rights": "All rights reserved."
+  }
+}
